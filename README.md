@@ -1,5 +1,2 @@
 # TypeScript1
-Link to view the site
-https://elingejuan.github.io/TypeScript1/
-
-Juan David Rios - 202215787
+Andres Felipe Lamprea - 202120261
