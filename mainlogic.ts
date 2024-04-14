@@ -1,5 +1,6 @@
 import { Serie } from './serie.js';
 import { dataSeries } from './data.js';
+//Ultimo cambios de esta vaina de TS :p
 
 const seriesTableBody: HTMLElement = document.getElementById('series')!;
 const averageSeasons: HTMLElement = document.getElementById('averageSeasons')!;
